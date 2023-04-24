@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<listsinhvien>
+<sinhvien>
+    <MSSV>1610167</MSSV>
+    <HoTenlot>Nguyễn Quốc</HoTenlot>
+    <Ten>Anh</Ten>
+    <Phai>Nam</Phai>
+    <NgaySinh>1998-08-10T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <SDT>0190822288</SDT>
+    <CMND>123456789</CMND>
+    <DiaChi>01 Phù Đổng Thiên Vương, P8, Đà Lạt</DiaChi>
+    <MonDK>Đồ án cơ sở</MonDK>
+    <MonDK>Hệ điều hành</MonDK>
+</sinhvien>
+<sinhvien>
+    <MSSV>1611288</MSSV>
+    <HoTenlot>Lê Nhật</HoTenlot>
+    <Ten>Ánh</Ten>
+    <Phai>Nam</Phai>
+    <NgaySinh>1998-10-07T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SDT>0190833388</SDT>
+    <CMND>123456789</CMND>
+    <DiaChi>Phù Đổng Thiên Vương, P8, Đà Lạt</DiaChi>
+    <MonDK>An toàn và bảo mật hệ thống</MonDK>
+    <MonDK>Mạng máy tính</MonDK>
+</sinhvien>
+<sinhvien>
+    <MSSV>1612166</MSSV>
+    <HoTenlot>Võ Thị Thu</HoTenlot>
+    <Ten>Ngân</Ten>
+    <Phai>Nữ</Phai>
+    <NgaySinh>1998-03-16T00:00:00</NgaySinh>
+    <Lop>CTK46</Lop>
+    <SDT>0190844488</SDT>
+    <CMND>123456789</CMND>
+    <DiaChi>01 Phù Đổng Thiên Vương, P8, Đà Lạt</DiaChi>
+    <MonDK>Đồ án cơ sở</MonDK>
+    <MonDK>Hệ điều hành</MonDK>
+    <MonDK>Mạng máy tính</MonDK>
+</sinhvien>
+<sinhvien>
+    <MSSV>1610094</MSSV>
+    <HoTenlot>Lê Thùy Lan</HoTenlot>
+    <Ten>Chi</Ten>
+    <Phai>Nữ</Phai>
+    <NgaySinh>1998-07-03T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SDT>0190855588</SDT>
+    <CMND>123456789</CMND>
+    <DiaChi>01 Phù Đổng Thiên Vương, P8, Đà Lạt</DiaChi>
+    <MonDK>An toàn và bảo mật hệ thống</MonDK>
+    <MonDK>Lập trình CSDL</MonDK>
+    <MonDK>Mạng máy tính</MonDK>
+</sinhvien>
+</listsinhvien>
